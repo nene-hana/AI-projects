@@ -190,7 +190,7 @@ Suggestions:
 ## 🙌 Team
 
 Built by:  
-**TEAM PRIMA QUESTA**
+**TEAM PRIMA QUESTA** in accordance with **GOOGLE AI AGENTS INTENSIVE COURSE 2025** hackathon Capstone
 
 ---
 
