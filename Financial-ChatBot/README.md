@@ -1,11 +1,13 @@
 # Financial Chatbot 
-(BUILD AS A PART OF BCG GEN AI JOB SIMULATION)
+BCG GenAI Job Simulation on Forage - December 2025
 
 ## Overview
-This is a simplified financial chatbot  developed to provide responses to predefined queries regarding the financial performance of Microsoft, Tesla, and Apple. The chatbot demonstrates the basics of AI-powered interaction with financial data, focusing on accuracy, clarity, and accessibility.
-The main goal of this project is to introduce users to the concept of financial chatbots, showing how structured financial data can be leveraged to provide informative and interactive responses without the need for advanced AI or deep learning models.
+This is project I did as a part of a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team. This is a simplified financial chatbot  developed to provide responses to predefined queries regarding the financial performance of Microsoft, Tesla, and Apple. The chatbot demonstrates the basics of AI-powered interaction with financial data, focusing on accuracy, clarity, and accessibility. The main goal of this project is to introduce users to the concept of financial chatbots, showing how structured financial data can be leveraged to provide informative and interactive responses without the need for advanced AI or deep learning models.Gained experience in Python programming, including the use of libraries such as pandas for data manipulation.Integrated and interpreted complex financial data from 10-K and 10-Q reports,employing rule-based logic to create a chatbot that provides user-friendly financial insights and analysis.
+<img width="1823" height="426" alt="image" src="https://github.com/user-attachments/assets/b1a93f57-f324-4330-873d-50f125a38cfd" />
+
 
 ---
+
 
 ## Features
 
